@@ -6,14 +6,14 @@ function convertToBool(text, fault = 'true') {
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
+global.packname = 'Dah Boii?';
 global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
+    banned: '`pussy, i banned you`',
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
-    admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
+    admin: '`Damnit, admin only brah`',
+    botAdmin: '`wished i was admin,man!`',
     owner: '`You are not my owner`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
