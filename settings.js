@@ -25,7 +25,7 @@ global.mess = {
 global.owner = [process.env.OWNER_NUMBER] || ['2349070329461'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=2YdVQIjb#8P1u5juhDHlDyy-4a7HHI3seSh3CNG6yyqSZ2UHJRkY',
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=DBclnSzb#sbWGjqj9X56sybbQWTCHo9uw-aMMWvA18gdo4a5IVsc',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
 LANG:  process.env.LANG || 'SI' ,    
