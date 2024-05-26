@@ -14,7 +14,7 @@
         "PREFIX": {
             "description": "put prefix here",
             "required": true,
-            "value": "+"      
+            "value": "."      
         },
         "LANG": {
             "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
