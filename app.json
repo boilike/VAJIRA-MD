@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "Dah Boii-MD.",
   "description": "QUEEN-DEW has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -9,12 +9,12 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=Ld1nTQBJ#b2TKTjVotJnhaUD4KasnbRmKNPjuagEHGxVSBJSqUAU"
         },
         "PREFIX": {
             "description": "put prefix here",
             "required": true,
-            "value": "."      
+            "value": "+"      
         },
         "LANG": {
             "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
@@ -23,12 +23,12 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "Dah Boii?"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "2349070329461"
         },
         "IMAGE": {
             "description": "Put bot image url here",
