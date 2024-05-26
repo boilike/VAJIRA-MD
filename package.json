@@ -1,5 +1,5 @@
 {
-"name": "VAJIRA-MD",    
+"name": "DAHBOII-MD",    
 "version": "2.0.6",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
